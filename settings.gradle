@@ -1,7 +1,6 @@
 rootProject.name = 'the-dots'
 
-include 'the-dots-backend'
-include 'the-dots-api'
-include 'the-dots-core'
-include 'the-dots-mongo-plugin'
-
+include 'the-dots-api',
+        'the-dots-core',
+        'the-dots-mongo-plugin',
+        'the-dots-backend'
