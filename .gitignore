@@ -2,6 +2,9 @@
 build/
 the-dots-backend/
 the-dots-frontend/
+the-dots-core/
+the-dots-api/
+the-dots-mongo-plugin/
 
 ### STS ###
 .apt_generated
