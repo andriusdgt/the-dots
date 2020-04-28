@@ -1,1 +1,3 @@
 rootProject.name = 'the-dots'
+
+include 'the-dots-backend'
