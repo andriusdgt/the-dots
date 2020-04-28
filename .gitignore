@@ -1,6 +1,7 @@
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+the-dots-backend/
+the-dots-frontend/
 
 ### STS ###
 .apt_generated
