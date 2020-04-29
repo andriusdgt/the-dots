@@ -3,7 +3,6 @@ build/
 the-dots-backend/
 the-dots-frontend/
 the-dots-core/
-the-dots-api/
 the-dots-mongo-adapter/
 
 ### STS ###
