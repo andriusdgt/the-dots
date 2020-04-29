@@ -4,7 +4,7 @@ the-dots-backend/
 the-dots-frontend/
 the-dots-core/
 the-dots-api/
-the-dots-mongo-plugin/
+the-dots-mongo-adapter/
 
 ### STS ###
 .apt_generated
