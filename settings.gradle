@@ -2,5 +2,5 @@ rootProject.name = 'the-dots'
 
 include 'the-dots-api',
         'the-dots-core',
-        'the-dots-mongo-plugin',
+        'the-dots-mongo-adapter',
         'the-dots-backend'
