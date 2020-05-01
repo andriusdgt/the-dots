@@ -1,18 +1,4 @@
 subprojects {
-    apply plugin: 'java'
-
     group = 'com.andriusdgt'
     version = '1.0.0'
-
-    repositories {
-        jcenter()
-    }
-
-    test {
-        useJUnitPlatform()
-        testLogging {
-            events 'passed', 'skipped', 'failed'
-        }
-    }
-
 }
