@@ -3,6 +3,15 @@
 The Dots is a web application which helps you manage 2D points and calculate the squares they form.
 It consists of a Backend REST server and Frontend Single-Page application.
 
+### Setup
+In order to start up the stack you should have this software installed:
+
+JDK 8+
+
+Node.js and npm
+
+Running MongoDB
+
 ### Booting up
 To start the Frontend you should execute these commands in Terminal from current directory:
 ```
