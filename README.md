@@ -13,7 +13,7 @@ To start the Backend you should execute these commands in Terminal from current 
 ```
     ./gradlew build :the-dots-backend:run
 ```
-If you wish to start it from *fat-jar* run:
+If you wish to start it using the *fat-jar* run:
 ```
     ./gradlew build
     cd the-dots-backend/build/libs
