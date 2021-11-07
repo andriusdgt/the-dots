@@ -3,6 +3,19 @@
 The Dots is a web application which helps you manage 2D points and calculate the squares they form.
 It consists of a Backend REST server and Frontend Single-Page application.
 
+The features include:
+* Ability to add and delete individual points by coordinates, group them to lists 
+* Finds all the possible squares by given points (including nested ones)
+* Ability to bulk upload and download points
+* All points are persisted on MongoDB Database
+
+Architecture highlights:
+* Backend module uses Spring Framework and core domain logic is decoupled to separate module making it delivery-agnostic
+and easy to change to different kind of backend framework if needed 
+* Uses Database adapter module to make core domain logic independent of Database technologies making it easy to change 
+to different kind of Database server if needed
+* Made according to SOLID practices
+
 ### Setup
 In order to start up the stack you should have this software installed:
 
