@@ -3,6 +3,13 @@
 The Dots is a web application which helps you manage 2D points and calculate the squares they form.
 It consists of a Backend Java REST server backed by Java modules and Frontend Single-Page application.
 
+Related repositories can be found here:
+
+1. https://github.com/andriusdgt/the-dots-backend
+2. https://github.com/andriusdgt/the-dots-frontend
+3. https://github.com/andriusdgt/the-dots-core
+4. https://github.com/andriusdgt/the-dots-mongo-adapter
+
 The features include:
 * Ability to add and delete individual points by coordinates, group them to lists 
 * Finds all the possible squares by given points (including nested ones)
@@ -27,17 +34,9 @@ Node.js and npm
 
 Python2 (for npm sub-dependencies)
 
-### Project setup
-
-Clone all of these repositories to this project directory before starting:
-
-1. https://github.com/andriusdgt/the-dots-backend
-2. https://github.com/andriusdgt/the-dots-frontend
-3. https://github.com/andriusdgt/the-dots-core
-4. https://github.com/andriusdgt/the-dots-mongo-adapter
-
 ### Booting up
-To start the Frontend you should execute these commands in Terminal from current directory:
+Cloned repositories should be placed in this repository directory. 
+Next, to start the Frontend you should execute these commands in Terminal from current directory:
 ```
     cd the-dots-frontend
     npm run start
