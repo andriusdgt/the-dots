@@ -1,7 +1,7 @@
 # The Dots
 
 The Dots is a web application which helps you manage 2D points and calculate the squares they form.
-It consists of a Backend Java REST server backed by Java modules and Frontend Single-Page application.
+It consists of a Java Spring REST Backend backed by Java modules and Angular Frontend Single-Page application.
 
 Related repositories can be found here:
 
